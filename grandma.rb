@@ -15,4 +15,6 @@
 phrase_to_grandma="I LOVE YOU GRANDMA"
 
 def speak_to_grandma 
-  if phrase_to_grandma == ""
+  if phrase_to_grandma == "I LOVE YOU GRANDMA"
+    puts_and_prints "I LOVE YOU TOO PUNKIN!"
+  elsif phrase_to_granma == 
